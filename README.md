@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himesh</h1>
-<h3 align="center">A passionate Full Stack developer from United States</h3>
+<h3 align="center">A passionate Data Engineer from United States</h3>
 
 - 🔭 I’m currently working on **Multi Class Retinal diesese detection using GAN**
 
