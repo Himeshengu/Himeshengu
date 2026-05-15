@@ -84,28 +84,29 @@ PostgreSQL • MySQL • MongoDB • ChromaDB
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 Let's Connect
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/engu-himesh-a3a6372b7/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:enguhimesh01@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://himesh-portfolio-ea1nsobdn-himeshengu-s-projects.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-</a>
-
-<a href="https://github.com/himeshengu" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/engu-himesh-a3a6372b7/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+  
+  <a href="mailto:enguhimesh01@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  </a>
+  
+  <a href="https://himesh-portfolio-ea1nsobdn-himeshengu-s-projects.vercel.app/">
+    <img src="https://img.icons8.com/fluency/96/domain.png" height="50"/>
+  </a>
+  
+  <a href="https://github.com/himeshengu">
+    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  </a>
 </p>
 
+<p align="center">
+Open to Software Engineering • Data Engineering • AI/ML Opportunities
+</p>
 ## GitHub Stats
 
 <p align="center">
