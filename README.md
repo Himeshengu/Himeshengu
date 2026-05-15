@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Himesh Engu</h1>
 
 <h3 align="center">
@@ -114,12 +115,16 @@ PostgreSQL • MySQL • MongoDB • ChromaDB
 </p>
 
 
-## 📊 GitHub Stats
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himeshengu&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himeshengu&theme=tokyonight&hide_border=true" height="180em" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=himeshengu&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=himeshengu&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himeshengu&layout=compact&theme=radical&hide_border=true"/>
 </p>
 ## Profile Views
 
