@@ -24,6 +24,10 @@ I am a Computer Science graduate student at Northern Arizona University with exp
 - Built deep learning pipelines using PyTorch, TensorFlow, and computer vision techniques
 - Improved model performance using advanced preprocessing, augmentation, and GPU-based training workflows
 
+### Enterprise Document Search and Recommendation System
+- Developed a scalable full-stack system using React and FastAPI with multi-agent RAG pipelines
+- Integrated contextual retrieval, summarization, reranking, and validation workflows for enterprise-scale document search
+
 ### Cloud Web Server and Distributed Systems Project
 - Deployed scalable cloud-hosted applications using AWS EC2, Apache, Linux, and Docker
 - Configured networking, server automation, deployment workflows, and monitoring pipelines
@@ -32,6 +36,9 @@ I am a Computer Science graduate student at Northern Arizona University with exp
 - Built NLP-based classification models to identify fraudulent job postings
 - Applied feature engineering, text preprocessing, TF-IDF vectorization, and machine learning algorithms for prediction
 
+### YouTube Transcript Summarizer
+- Developed an AI-powered transcript summarization system using NLP and transformer-based models
+- Generated concise summaries and extracted important insights from long-form video content
 
 ---
 
@@ -84,30 +91,21 @@ PostgreSQL • MySQL • MongoDB • ChromaDB
 
 ---
 
-## 🚀 Let's Connect
+## Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/engu-himesh-a3a6372b7/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-  </a>
-  
-  <a href="mailto:enguhimesh01@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-  </a>
-  
-  <a href="https://himesh-portfolio-ea1nsobdn-himeshengu-s-projects.vercel.app/">
-    <img src="https://img.icons8.com/fluency/96/domain.png" height="50"/>
-  </a>
-  
-  <a href="https://github.com/himeshengu">
-    <img src="https://skillicons.dev/icons?i=github" height="50"/>
-  </a>
+<p align="left">
+<a href="https://www.linkedin.com/in/engu-himesh-a3a6372b7/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
+</a>
+
+<a href="https://himesh-portfolio-ea1nsobdn-himeshengu-s-projects.vercel.app/" target="blank">
+<img align="center" src="https://img.icons8.com/fluency/48/domain.png" alt="portfolio" height="40" width="40" />
+</a>
 </p>
 
-<p align="center">
-Open to Software Engineering • Data Engineering • AI/ML Opportunities
-</p>
+- 📧 Email: enguhimesh01@gmail.com
 
+---
 
 ## GitHub Stats
 
