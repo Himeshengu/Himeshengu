@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Himesh Engu</h1>
 
-<p align="center">
+<h3 align="center">
 Data Engineer | AI Engineer | Graduate Student at Northern Arizona University
-</p>
+</h3>
 
 ---
 
@@ -24,10 +24,6 @@ I am a Computer Science graduate student at Northern Arizona University with exp
 - Built deep learning pipelines using PyTorch, TensorFlow, and computer vision techniques
 - Improved model performance using advanced preprocessing, augmentation, and GPU-based training workflows
 
-### Enterprise Document Search and Recommendation System
-- Developed a scalable full-stack system using React and FastAPI with multi-agent RAG pipelines
-- Integrated contextual retrieval, summarization, reranking, and validation workflows for enterprise-scale document search
-
 ### Cloud Web Server and Distributed Systems Project
 - Deployed scalable cloud-hosted applications using AWS EC2, Apache, Linux, and Docker
 - Configured networking, server automation, deployment workflows, and monitoring pipelines
@@ -36,9 +32,6 @@ I am a Computer Science graduate student at Northern Arizona University with exp
 - Built NLP-based classification models to identify fraudulent job postings
 - Applied feature engineering, text preprocessing, TF-IDF vectorization, and machine learning algorithms for prediction
 
-### YouTube Transcript Summarizer
-- Developed an AI-powered transcript summarization system using NLP and transformer-based models
-- Generated concise summaries and extracted important insights from long-form video content
 
 ---
 
@@ -57,19 +50,19 @@ I am a Computer Science graduate student at Northern Arizona University with exp
 ## Technical Skills
 
 ### Programming and Software
-Python, SQL, Java, JavaScript, C, C++, HTML, CSS, REST APIs, Object-Oriented Programming
+Python • SQL • Java • JavaScript • C • C++ • HTML • CSS • REST APIs • OOP
 
 ### Data Engineering and Cloud
-ETL Pipelines, Apache Spark, PySpark, Kafka, Airflow, Data Modeling, AWS, Docker, Linux
+ETL Pipelines • Apache Spark • PySpark • Kafka • Airflow • Data Modeling • AWS • Docker • Linux
 
 ### Machine Learning and AI
-Machine Learning, Deep Learning, NLP, Computer Vision, GANs, Transformers, RAG Systems, LangChain
+Machine Learning • Deep Learning • NLP • Computer Vision • GANs • Transformers • RAG Systems • LangChain
 
 ### Frameworks and Tools
-FastAPI, Flask, React, TensorFlow, PyTorch, Scikit-learn, Git, MongoDB
+FastAPI • Flask • React • TensorFlow • PyTorch • Scikit-learn • Git • MongoDB
 
 ### Databases
-PostgreSQL, MySQL, MongoDB, ChromaDB
+PostgreSQL • MySQL • MongoDB • ChromaDB
 
 ---
 
@@ -93,14 +86,34 @@ PostgreSQL, MySQL, MongoDB, ChromaDB
 
 ## Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN
-- Email: enguhimesh01@gmail.com
-- Portfolio: YOUR_PORTFOLIO_LINK
+<p align="left">
+<a href="https://www.linkedin.com/in/engu-himesh-a3a6372b7/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
+</a>
+
+<a href="https://himesh-portfolio-ea1nsobdn-himeshengu-s-projects.vercel.app/" target="blank">
+<img align="center" src="https://img.icons8.com/fluency/48/domain.png" alt="portfolio" height="40" width="40" />
+</a>
+</p>
+
+- 📧 Email: enguhimesh01@gmail.com
 
 ---
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=himeshengu&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=himeshengu&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=himeshengu&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=himeshengu&theme=tokyonight" alt="streak" />
+</p>
+
+---
+
+## Profile Views
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=himeshengu&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
