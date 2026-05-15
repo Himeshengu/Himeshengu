@@ -114,18 +114,13 @@ PostgreSQL • MySQL • MongoDB • ChromaDB
 </p>
 
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=himeshengu&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=himeshengu&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himeshengu&theme=tokyonight&hide_border=true" height="180em" />
 </p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=himeshengu&theme=tokyonight" alt="streak" />
-</p>
-
----
-
 ## Profile Views
 
 <p align="left">
