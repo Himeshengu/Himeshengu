@@ -91,21 +91,28 @@ PostgreSQL • MySQL • MongoDB • ChromaDB
 
 ---
 
-## Connect With Me
+### 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/engu-himesh-a3a6372b7/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
+<p align="center">
+
+<a href="https://www.linkedin.com/in/engu-himesh-a3a6372b7/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://himesh-portfolio-ea1nsobdn-himeshengu-s-projects.vercel.app/" target="blank">
-<img align="center" src="https://img.icons8.com/fluency/48/domain.png" alt="portfolio" height="40" width="40" />
+<a href="mailto:enguhimesh01@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<a href="https://himesh-portfolio-ea1nsobdn-himeshengu-s-projects.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+
+<a href="https://github.com/himeshengu" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
-- 📧 Email: enguhimesh01@gmail.com
-
----
 
 ## GitHub Stats
 
