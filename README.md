@@ -107,6 +107,8 @@ PostgreSQL • MySQL • MongoDB • ChromaDB
 <p align="center">
 Open to Software Engineering • Data Engineering • AI/ML Opportunities
 </p>
+
+
 ## GitHub Stats
 
 <p align="center">
