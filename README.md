@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Himesh Engu</h1>
+<h1 align="center">Hi, I'm Himesh Engu</h1>
 
 <h3 align="center">
 Data Engineer | AI Engineer | Graduate Student at Northern Arizona University
